@@ -1,4 +1,8 @@
 1
 2q
 red primary
+<<<<<<< HEAD
 green secondary
+=======
+blababka
+>>>>>>> future2
