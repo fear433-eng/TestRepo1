@@ -1,4 +1,8 @@
 3 way
 coworker
+<<<<<<< HEAD
 
 konfliktas 2
+=======
+confloktass
+>>>>>>> d2bd80cee550ba11d8c7c5605aa3487fd97170d1
